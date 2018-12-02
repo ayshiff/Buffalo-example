@@ -1,0 +1,1 @@
+module buffalo_example
